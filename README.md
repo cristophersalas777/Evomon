@@ -4,6 +4,13 @@
 
 ---
 
+## ⬇ Descargar
+**[👉 Descargar Evomon v1.0 (Windows)](https://drive.google.com/file/d/1vDnpipsnX6M3AGxyey7tRls4V31mkjIA/view?usp=drive_link)**
+
+> Descarga el ZIP, extráelo y abre `Evomon.exe`. No necesitas instalar nada.
+
+---
+
 ## ¿Qué es?
 Es un juego de rol y aventura de mundo abierto inspirado en la captura de criaturas.
 
