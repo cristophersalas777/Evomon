@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Data - perfiles guardados (cada usuario tiene los suyos)
+data/perfiles/*.json
+data/config.json
+
+# Assets generados
+assets/pokebola_sin_fondo.png
+assets/evomon.ico
+
+# IDE
+.venv/
+.env
