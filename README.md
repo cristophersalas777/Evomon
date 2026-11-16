@@ -1,69 +1,42 @@
-# ⚔ Evomon
-**Macro app de escritorio para Roblox**  
-*by CEBOLLIN*
+<p align="center">
+  <img src="assets/pokebola.png" width="120" alt="Evomon Logo"/>
+</p>
+
+<h1 align="center">Evomon</h1>
+<p align="center"><b>Macro app de escritorio para Roblox</b><br><i>by CEBOLLIN</i></p>
 
 ---
 
 ## ⬇ Descargar
-**[👉 Descargar Evomon v1.0 (Windows)](https://drive.google.com/file/d/1vDnpipsnX6M3AGxyey7tRls4V31mkjIA/view?usp=drive_link)**
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1vDnpipsnX6M3AGxyey7tRls4V31mkjIA/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Descargar-Evomon_v1.0-6c63ff?style=for-the-badge&logo=windows&logoColor=white" alt="Descargar"/>
+  </a>
+</p>
 
 > Descarga el ZIP, extráelo y abre `Evomon.exe`. No necesitas instalar nada.
 
 ---
 
 ## ¿Qué es?
-Es un juego de rol y aventura de mundo abierto inspirado en la captura de criaturas.
+
+Evomon automatiza el farmeo de monstruos en Roblox. Graba tu secuencia de acciones, configura el tiempo de respawn y deja que la app repita el proceso automáticamente.
 
 ## Funciones
-- ⏺ Grabar secuencia de acciones (clics + teclado)
+
+- ⏺ Grabar secuencia de acciones
 - ▶ Reproducir en bucle automático
-- ⏱ Timer de respawn configurable (minutos y segundos)
-- 💾 Múltiples perfiles guardados por monstruo
-- ⌨ Teclas de acceso rápido configurables (F6/F7/F8/F9)
-- 🔄 Carga automáticamente el último perfil usado
+- ⏱ Timer de respawn configurable
+- 💾 Múltiples perfiles por monstruo
+- ⌨ Teclas de acceso rápido (F6 / F7 / F8 / F9)
+- 🔄 Carga el último perfil usado al abrir
 
 ## Requisitos
-- Windows 10/11
-- Python 3.10+
-- Librerías: `customtkinter pynput pyautogui pillow`
 
-## Instalación
-```bash
-pip install customtkinter pynput pyautogui pillow
-python main.py
-```
+- Windows 10 / 11
+- No requiere instalación
 
-## Uso
-1. Abre Evomon antes de entrar al juego
-2. Escribe el nombre del monstruo en **Nombre**
-3. Configura el tiempo de respawn
-4. Presiona **Grabar** y realiza las acciones en el juego
-5. Presiona **Parar** grabación
-6. Presiona **Guardar perfil**
-7. Presiona **Iniciar** — Evomon hace todo solo
+---
 
-## Teclas por defecto
-| Tecla | Acción |
-|-------|--------|
-| F6 | Iniciar |
-| F7 | Detener |
-| F8 | Grabar |
-| F9 | Parar grabación |
-
-> Las teclas son configurables desde la app.
-
-## Estructura
-```
-macroMon/
-├── main.py
-├── ui/
-│   └── ventana.py
-├── core/
-│   ├── grabador.py
-│   ├── reproductor.py
-│   ├── timer.py
-│   └── gestor_perfiles.py
-├── data/
-│   └── perfiles/
-└── assets/
-```
+<p align="center">Hecho con Python • by CEBOLLIN</p>
