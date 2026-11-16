@@ -21,7 +21,7 @@
 
 ## ¿Qué es?
 
-Evomon automatiza el farmeo de monstruos en Roblox. Graba tu secuencia de acciones, configura el tiempo de respawn y deja que la app repita el proceso automáticamente.
+Es un juego de rol y aventura de mundo abierto inspirado en la captura de criaturas.
 
 ## Funciones
 
